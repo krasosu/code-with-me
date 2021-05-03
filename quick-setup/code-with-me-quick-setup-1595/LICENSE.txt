@@ -1,0 +1,337 @@
+Code With Me Terms of Use
+Version 1.0, effective as of March 31, 2021
+This is a legal document and it is important that you read it carefully.
+
+
+CODE WITH ME INCORPORATES COLLABORATIVE ELEMENTS, INCLUDING GUEST ACCESS TO YOUR COMPUTER SYSTEM, WHICH REQUIRE A HEIGHTENED AWARENESS OF SECURITY-RELATED ISSUES. PLEASE FAMILIARIZE YOURSELF WITH THE PRODUCT’S CHARACTERISTICS AND CAPABILITIES BY READING THE CODE WITH ME DOCUMENTATION AT https://www.jetbrains.com/help/idea/code-with-me.html AND WITH YOUR RESPONSIBILITIES SET OUT IN SECTION 2. PLEASE NOTE THE DISCLAIMERS AND LIMITATIONS OF LIABILITY BELOW IN SECTIONS 8 AND 9, AS WELL AS THE INDEMNIFICATION PROVISIONS IN SECTION 7.
+
+
+You understand that by accepting these Terms of Use (you do that by clicking the "I agree” or a similar button, or by accessing or using Code With Me) you are entering into a legal agreement and agree to certain legal consequences for yourself or your organization.
+
+
+By accepting these Terms of Use, you confirm that you understand them, that you agree with them, and that you are at least 13 years of age.
+
+
+Introduction
+
+
+These JetBrains Code With Me Terms of Use (“Terms”) describe how you can access, purchase, and use Code With Me.
+
+
+Accepting these Terms creates a legal agreement between (i) JetBrains s.r.o., a company  registered in the Commercial Register of the Prague Municipal Court, Section C, File 86211, ID No. 265 02 275, with its registered office at Na hřebenech II 1718/10, Prague, 14000, Czech Republic (“JetBrains”, “us”, or “we”) and (ii) you, who are either an Organization or a natural person (“you”).
+
+
+
+
+If you accept these Terms on behalf of an Organization, you confirm (‘represent and warrant’) that you are authorized to enter into agreements on behalf of that organization. If these Terms are accepted using an email address provided by a legal entity, we will regard (‘deem’) you as authorized to represent that organization. You must be able to enter into contracts (‘have capacity’).
+Summary: Accepting these Terms creates an important legal agreement between you and JetBrains. There are legal consequences to accepting these Terms.
+1. Definitions
+
+
+   1. Special legal phrases
+There are certain phrases that have an accepted meaning for lawyers. To ensure these Terms are clear and accessible, we have included the accepted ‘legal’ phrase in parentheses after the word to show that we intend it to have the accepted ‘legal’ meaning. We do this when a certain phrase is used for the first time in these Terms.
+
+
+   2. Definitions
+There are words or phrases in these Terms that have a particular meaning. When the word or a phrase is used for the first time, it is defined and capitalized. These Terms also use these definitions:
+
+
+“Applications” are either JetBrains or third-party software applications designed to be used in Code With Me and available on the JetBrains Plugin Marketplace (available at https://plugins.jetbrains.com/marketplace) or from third parties.
+“Code With Me” means the JetBrains product offering known as “JetBrains Code With Me”, offered either P2P, over JetBrains servers, or on-premises, comprising the JetBrains software program known as ‘Code With Me’, which includes all downloadable parts of Code With Me that are provided by JetBrains in binary form (if any), access to Code With Me, the Documentation, updates of Code With Me, and any incorporated Third-Party Software, as well as the Data.
+“Data” refers to content that is featured, displayed, or otherwise available in Code With Me, such as (‘including, but not limited to’) code, repositories, text, data, audio, video, articles, images, photographs, graphics, software, Third-Party Software, applications, packages, designs, features, and other materials.
+“Documentation” means the latest versions of all online Code With Me technical documentation, available at https://www.jetbrains.com/help/idea/code-with-me.html, and any other relevant Code With Me policy available on the JetBrains Website which applies to You and/or to Guests when using Code With Me.
+“Guest” means a person who obtains access to the Host’s system through Code With Me.
+“Host” means either the instance of the JetBrains IDE (that is, the machine or device running the IDE) which shares its coding environment with Guests, or the person doing so.
+“JetBrains Account” means an account at https://account.jetbrains.com that you may create, which has a unique name and password and through which you have access to JetBrains products and services provided in connection with this account.
+“JetBrains Website” means the Code With Me product website (at https://www.jetbrains.com/code-with-me), https://www.jetbrains.com, and any other website operated by JetBrains including (but not limited to) websites listed on the JetBrains Legal Information page (at https://www.jetbrains.com/legal).
+“Organization” includes any corporation, company, partnership, association, or other entity that controls, is controlled by, or is under common control with you. For the purposes of this definition, “control” means (i) the power, directly or indirectly, to direct or manage such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
+“Subscription” means your right to use Code With Me according to these Terms and the Documentation, and within the limits set out in your Subscription Plan and described in your Subscription Confirmation.
+“Subscription Confirmation” means an email confirming your rights to use Code With Me and describing important information about your Subscription Plan, such as (‘including, but not limited to’) the Subscription Period and the number of Guests and session time that you are entitled to, as well as important payment information.
+“Subscription Period” means either a monthly or yearly period as described in your Subscription Plan.
+“Subscription Plan” means subscription plan details described in your Subscription Confirmation and the specific features for each type of plan described on the JetBrains Website and/or in the Documentation. If the description in your Subscription Confirmation is different from the description on the JetBrains Website or in the Documentation, the description in your Subscription Confirmation will prevail.
+“Third-Party Software” means third-party software programs that are owned or licensed by someone other than us and described on the JetBrains Website (in particular at https://www.jetbrains.com/legal/third-party-software).
+“Your Data” means Data that you (or any of your Guests) create, own, or have the right to use.
+Summary: Words starting with capital letters have a special meaning. These are defined in this section or wherever they are used for the first time in these Terms.
+2. Rights and responsibilities
+   3. Right to use Code With Me
+i) You can use Code With Me as long as you comply with these Terms, the Documentation, and the limits of your Subscription. You can change your Subscription between the Free and Premium versions at any time. Any changes to your Subscription will be effective as soon as we confirm them.
+ii) We will use commercially reasonable efforts to make Code With Me available to you and/or your Guests. Code With Me may be unavailable to you or your Guests during (i) planned downtime, (ii) failures of Code With Me, including failures or delays contributed to by an internet service provider, or (iii) any unavailability caused by circumstances beyond JetBrains’ reasonable control (see the ‘Force Majeure’ section).
+iii) As a Host, you can invite Guests for collaboration (with the number of simultaneous Guests and time session limits depending on your Subscription Plan) and collaborate with them, as well as share information and set the level of access to your machine (see the Access section below).
+   4. Your responsibilities when using Code With Me
+You are responsible for:
+      1. Guests – your behavior, your Guests’ behavior, and making sure that you and your Guests do not breach these Terms. Guests must be authorized by you to use Code With Me and have your permission to access and use Code With Me under your Subscription. You are responsible for the permission you give a Guest, their activities in Code With Me, and the Data to which they will have access. You are responsible for monitoring Guests’ activity, in particular ensuring that they abide by the terms of, and do not engage in any activity restricted by, these Terms, the Team Tools User Agreement, and the JetBrains Cloud-Based Products Acceptable Use Policy (each available at https://www.jetbrains.com/legal). If you become aware that a Guest is breaching these terms, you must immediately cancel that Guest’s rights to use Code With Me, including disconnecting them from the hosted session.
+      2. Confidentiality – keeping your Data, passwords, Guests’ usernames, and Guest ‘fingerprints’ (access identification information) confidential and secure, and making sure that your Guests do the same.
+      3. Security – you are responsible for your own coding environment and the direct or indirect consequences of Guests having access to your system using Code With Me. This includes setting up your security configuration properly and, without limitation, your full responsibility for the following:
+* sharing the invitation link via secure channels and only with Guests who are authorised to access your system
+* verifying Guests’ identities before accepting their connection
+* not exposing data to Guests which you do not wish them to have access to or which they should not have access to
+* not allowing Guests to execute, run, or debug applications on your machine without your consent
+* ending Guests’ access to Code With Me whenever you no longer need it
+* accepting only Guests whom you trust not to undertake any unwanted actions while being granted access to your system, regardless of the access level they are assigned
+* changes and actions made by Guests on the Host systems.
+      1. Permitted use – configuring and using Code With Me in accordance with the Documentation and your Subscription Plan, as well as the JetBrains Cloud-Based Products Acceptable Use Policy (available at https://www.jetbrains.com/legal/docs/terms/acceptable-use).
+      2. Internet and software – making sure that you have a suitable internet connection and any equipment that you need for that internet connection. It is also your responsibility to have access to appropriate hardware and any third-party software needed to run Code With Me, such as a browser with compatible data security protocols.
+      3. Your Data – all Data that you or your Guests submit or allow to be transmitted within Code With Me, and all of Your Data that is transmitted by JetBrains via Code With Me, including any permissions you need to use Your Data. You are also responsible for the way in which you acquired Your Data, and for ensuring that it is legal for you to use Your Data and for you to share it, or allow it to be shared, with Code With Me. If you become aware that any part of Your Data breaches these Terms or any other person’s (‘third party’s’) rights, you must immediately remove and cease using this part of Your Data with Code With Me.
+      4. Legal use – making sure that your use of Code With Me does not breach applicable law or government regulations.
+   5. Restrictions on using Code With Me
+You must not:
+      5. Interfere – reverse-engineer, disassemble, or decompile Code With Me or try to derive the source code of Code With Me in any way, unless applicable law allows it
+      6. Steal – modify, alter, tamper with, repair, or otherwise create derivative works of Code With Me, except if we give you a separate license that expressly allows you to create derivative works of all or part of Code With Me
+      7. Cheat – use, or try to use, Code With Me in a way that avoids incurring fees or exceeds the limits for your Subscription Plan
+      8. Transmit illegal content – use Code With Me to upload or share, or allow others to upload or share (‘transmit’), any material that is criminal, offensive, defamatory, or otherwise unlawful or a tort, or breach the privacy or intellectual property rights of anyone else (‘third party’)
+      9. Gain unauthorized access – try to gain unauthorized access to Code With Me, allow anyone else to access your or anyone else’s Guest link, including by sharing the link with anyone other than the Guest (‘third party’), or allow anyone outside of your organization to use Code With Me other than through a link you have authorized
+      10. Resell – resell Code With Me or access to Code With Me to any third party
+      11. Hack – utilize Code With Me, or allow Code With Me to be utilized, for the purpose of hacking, tunneling, or otherwise gaining unauthorized access to any computer or system.
+You must also make sure that none of your Guests do any of these things.
+Summary: You can use Code With Me according to these terms. Do not breach the restrictions outlined above, as they are an important part of our mutual agreement.
+3. Your Data
+
+
+   6. Responsibility for Your Data
+You can create or upload Your Data (see the ‘Definitions’ section) while using Code With Me. You are solely responsible for all of Your Data that you upload, link to, or otherwise make available or allow others to make available on Code With Me, regardless of the form of that Data.
+
+
+You are also responsible for all legal consequences, such as claims, damages, losses, liabilities, costs, and expenses that result from Your Data.  We are not responsible for any public display or misuse of Your Data.
+
+
+   7. Ownership of Your Data
+You keep (‘retain’) ownership of, title to, and interest in Your Data.
+
+
+You will only transmit or allow transmission of Data, including Third-Party Software, that you have the right to use, display, publish, and/or modify. You will fully comply with any third-party rights relating to Your Data. This means that if Your Data is licenced or copyrighted by a third-party, you must make sure you have the right to submit this Data to Code With Me and you must include any notices as required by the copyright owner or licensor.[a]
+
+
+Each time you transmit, expose, use, or display something that you did not create yourself, or that you do not own the rights to, you confirm that you have the right to do so and understand that you are doing so at your own risk, and are solely responsible for this Data and all consequences of its use in Code With Me. You also indemnify us from any liability relating to this Data (see the ‘Indemnification’ section).
+   8. JetBrains and your Data
+We do not proactively review or screen Data and are not responsible for doing so. Nevertheless, if we deem it reasonable or necessary we have the right, but not the responsibility, to block or refuse to transmit any Data or close any Guest link running through our servers that we (‘in our sole discretion’) believe breaches these Terms, any other legal agreement with JetBrains, any other JetBrains policies, or someone else’s rights.
+If you believe any Data affects (‘infringes’) your rights, you may contact us at copyright@jetbrains.com.
+
+
+If you are uploading Data that you did not create or do not own, you are responsible for ensuring that you have the right to upload this Data and you give us the same right to access and use this Data in order to provide Code With Me as described in the Documentation and these Terms.
+   9. Moral Rights
+You keep all moral rights to all of Your Data that you upload, publish, or submit to Code With Me. This includes rights of integrity and attribution. However, you waive these rights and agree not to assert them against us, but only so that we can do the things described in the Documentation and these Terms to provide Code With Me. If a court finds that these Terms are not enforceable under applicable law, you grant JetBrains the rights that we need to use Your Data without attribution and to make reasonable adaptations to Your Data, but only to the extent that is necessary to enable us to provide Code With Me.
+
+
+Summary: Any Data created by you remains yours. However, you provide us with certain rights to it, so that we can display and share the content you post. You have control over Your Data, and responsibility for it, and the rights you grant us are limited to those necessary for us to provide Code With Me. We have the right to remove Data or close Guest links if we need to.
+4. Access
+
+
+   1. Your Control of Access
+Depending on the nature of Your Data and the specific Code With Me feature that you are using, your Data might be visible to other Guests by default. It is your responsibility to set the appropriate level of access to Your Data, as described in the Documentation. Each Guest collects their own log, but no other storage functionality is provided by Code With Me, although you should be aware that third-party applications can be used to record Data. The Code With Me client, along with the settings chosen, persists on each Guest's machine.
+
+
+   2. JetBrains’ Suspension Rights
+We can immediately suspend your, or any of your Guests’, right to use Code With Me or any part of Code With Me if we have a good reason to (‘reasonably’) believe that any of the following applies:
+
+
+      12. Threats – your use of Code With Me might adversely impact, or pose a security, privacy, or legal risk to JetBrains, Code With Me, or any other person (‘third party’). This also applies to your Guests’ use of Code With Me
+
+
+      13. Failure to pay – you have not complied with the payment obligations in these Terms (see the “Fees and Payment” section)
+
+
+      14. Financial distress – you have stopped operating in the usual course of business, have transferred (‘assigned’) your assets for the benefit of creditors or made a similar arrangement, or are undergoing bankruptcy, reorganization, liquidation, dissolution or a similar proceeding
+
+
+      15. Breach of terms – you (or your Guests) otherwise breach these Terms or applicable law.
+
+
+We will make reasonable efforts to notify you in the event of such suspension.
+
+
+Summary: You are responsible for deciding who has access to Your Data in Code With Me. We can suspend access rights under certain circumstances.
+
+
+5. Subscriptions, Fees, and Payments
+   1. Subscriptions
+      1. Depending on your Subscription Plan, you will have access to different features and be subject to certain limits. These features and limits are described on the JetBrains Website and/or the Subscription Confirmation and apply at the time we confirm your purchase of Code With Me or any change in your Subscription Plan, or upon installation of Code With Me. The most important limits include your Subscription Period, the number of Guest connections you (as Host) can host at one time, and the time per Guest session. For non-Enterprise versions of Code With Me, you can change your Subscription Period between monthly and yearly at any time.
+      2. Upgrading Subscriptions – you can change your Subscription from one where you use Code With Me for free (a “Free Subscription”) to a Subscription You have to pay for (a “Paid Subscription”) at any time. Depending on the Subscription Plan that you select from the options JetBrains makes available, your Subscription will be either for one month or one year (“Subscription Period”). Your Subscription starts on the date in your Confirmation.
+When upgrading from a Free Subscription to a Paid Subscription, your Paid Subscription will be set to the annual Subscription Period by default. For the non-Enterprise paid version of Code With Me, you can manually change your Paid Subscription from an annual to a monthly Subscription Period.
+      3. Downgrading Subscriptions – you can downgrade from any Paid Subscription to a Free Subscription with fewer permitted Guests and limited time per session (“Downgrade”) at any time.
+      4. Automatic Renewals – unless you explicitly opt out, your Subscription will renew automatically for another Subscription Period. We will notify you shortly before your Subscription is renewed. You can opt out of the automatic renewal of your Subscription at any time.
+      5. You may be entitled to email support as described in your Subscription Confirmation.
+      6. JetBrains Account – if you have a JetBrains Account, you may be able to use it to manage your personal data, as well as any licenses and subscriptions you are entitled to use. Use of the JetBrains Account is governed by the JetBrains Account Agreement, available at https://www.jetbrains.com/legal/docs/agreements/jetbrains_account.html.
+Summary: Please pay attention to the time period in which you are entitled to use Code With Me, the fact that it auto-renews, and the number of Guests and session time limits you are entitled to. If you need to change these limitations, please do so in your JetBrains Account, or let us know.
+
+
+   2. Subscription Fees
+      1. You will be billed either monthly or annually depending on your Subscription Plan, Subscription Period, and the method by which you choose to pay. We will bill you at the beginning of the Subscription Period and at each Subscription Period renewal.
+      2. Change billing period (if you are a paying user of a non-Enterprise version of Code With Me) – you can change your billing period from monthly to annual at any time, or from annual to monthly at any time, but the change will only be effective from the beginning of the next billing period.
+   3. Payments
+      1. Payment Terms – the JetBrains Terms and Conditions of Purchase, available at https://www.jetbrains.com/legal/docs/store/terms, apply to all fees and other amounts that you have or might have to pay (‘are payable’) relating to these Terms.
+      2. Set-off – you cannot deduct or withhold (‘set off’) any amount from the fees that you have to pay to JetBrains, even if we owe you an amount or you believe we owe you an amount (‘counterclaim’), unless we agree to do so in writing.
+   4. Resolution of late payments
+To continue using paid versions of Code With Me without interruption, you must make sure that you pay all the relevant fees on time. Payment dates are described in your invoice. If you do not pay all fees in full and on time, we can:
+      1. Limit your or a Guest’s access to Code With Me or any features in Code With Me
+      2. Downgrade you to the Community (Free) Subscription plan
+      3. Suspend or altogether end (‘terminate’) your access to Code With Me and terminate these Terms as described in Section 10.
+You remain liable for any unpaid amounts due and must reimburse us for any additional costs that we incur in collecting late payments or if you breach anything in this Section 5.
+
+
+6. Ownership
+
+
+   10. We own Code With Me
+We own (or have the right to use and provide to you and your Guests subject to these Terms) all the proprietary and intellectual property rights to Code With Me and to all related trade secrets, copyright, trademarks, service marks, patents, and other unregistered intellectual property. These are our rights (‘rights are reserved’). The only rights that you have in relation to Code With Me are those that are necessary in order for you and your Guests to access and use Code With Me according to the Documentation.
+
+
+   11. You own Your Data
+You keep ownership of all proprietary and intellectual property rights to Your Data. This means that we never own any of Your Data even though it is transmitted or created using Code With Me.
+
+
+   12. Feedback
+You give us the right to use, change (‘modify’), commercialize, and incorporate into Code With Me any of your ideas, suggestions, recommendations, proposals, or other feedback relating to Code With Me. You cannot withdraw this permission after it is given (‘irrevocable’) and it is perpetual. We are not required to pay a fee for this feedback (‘royalty-free’), and we can transfer and give similar rights (‘sublicense’) to your feedback to anyone else worldwide.
+
+
+   13. Third-Party Software and its associated Rights
+You understand that the Software integrates Third-Party Software and that by using Code With Me you might be using Third-Party Software. This Third-Party Software is provided to you on the terms and conditions of the respective Third-Party Software and you need to comply with those terms and conditions.
+
+
+7. Indemnification
+   14. Indemnity
+If there are any claims, damages, losses, liabilities, fees, or similar expenses (including reasonable attorney’s fees) brought against JetBrains that arise out of, or are related to, any of the following things:
+
+
+      7. Access and use of Code With Me – your access or use of Code With Me or the access or use of Code With Me by any of your Guests. This includes any actions taken by your employees and personnel in relation to Code With Me;
+
+
+      8. Breach of these Terms – if you or any of your Guests breach these Terms or applicable laws;
+
+
+      9. Your Data – Your Data or the combination of Your Data with other applications, Data, or processes. This includes any allegation that Your Data, or its use, development, design, production, advertising, or marketing infringes someone else’s (‘a third party’s’) rights, or that you have illegally or without permission claimed someone else’s rights;
+
+
+      10. Disagreements – in the event of a disagreement between you and any of your Guests or any other third party (each of these is a “Claim”);
+
+
+then you agree to indemnify, defend, and hold us and our owners, directors, employees, agents, and representatives harmless, and to indemnify, defend and hold our affiliates and their owners, directors, employees, agents, and representatives harmless, from any and all such Claims.
+
+
+   15. Indemnity claims
+
+
+We will promptly let you know if any of the things above happen (see the “Indemnity” section above) and someone makes a Claim. If we fail to let you know quickly, then that failure will only affect your obligation to indemnify us to the extent that our failure to inform you quickly adversely affected your ability to defend the Claim. When defending a Claim you can choose your own lawyer, with our written permission. If you have our written approval, you can resolve (‘settle’) the claim as you decide (‘at your discretion’). However, we can take control of the defence and settlement at any time.
+
+
+8. IMPORTANT – YOUR RISK AND OUR DISCLAIMERS
+
+
+(RISK) CODE WITH ME IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. YOU ACCESS AND USE CODE WITH ME AT YOUR OWN RISK.
+* (WARRANTIES & REPRESENTATIONS) EXCEPT AS EXPRESSLY SET OUT IN THESE TERMS, IN RELATION TO CODE WITH ME, WE MAKE NO REPRESENTATIONS AND GIVE NO WARRANTIES (‘DISCLAIM’ THEM) – WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE – SUCH AS (WITHOUT LIMITATION) ANY WARRANTIES THAT CODE WITH ME WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE OF HARMFUL COMPONENTS, THAT YOUR SYSTEM, ENVIRONMENT, OR CONTENT WILL BE SECURE OR NOT OTHERWISE LOST OR DAMAGED, IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF TRADE.
+* THIS DISCLAIMER DOES NOT APPLY TO REPRESENTATIONS AND WARRANTIES THAT CANNOT BE EXCLUDED BY LAW.
+
+
+9. IMPORTANT – LIMITATION OF OUR LIABILITY
+
+
+(TYPES OF DAMAGES) WE WILL NOT BE LIABLE TO YOU OR A GUEST FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES. THIS INCLUDES DAMAGES FOR LOSS OF PROFITS, GOODWILL, OR DATA, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+(CIRCUMSTANCES OF LOSS) WE WILL NOT BE LIABLE FOR ANY COMPENSATION, REIMBURSEMENT, OR DAMAGES ARISING IN CONNECTION WITH ANY OF THE FOLLOWING:
+   16. YOUR, OR A GUEST’S, INABILITY TO USE CODE WITH ME, INCLUDING AS A RESULT OF A SUSPENDED SUBSCRIPTION, OR THE CANCELLATION OF YOUR SUBSCRIPTION OR THESE TERMS
+   17. OUR DECISION TO NO LONGER PROVIDE CODE WITH ME FOR BUSINESS, ECONOMIC, LEGAL, OR REGULATORY REASONS
+   18. HAVING MADE CODE WITH ME AVAILABLE TO YOU OR A GUEST, INCLUDING A GUEST’S CONDUCT
+   19. ANY UNANTICIPATED OR UNSCHEDULED DOWNTIME OF CODE WITH ME OR A PART OF CODE WITH ME FOR ANY REASON, INCLUDING AS A RESULT OF POWER OUTAGES, SYSTEM FAILURES, OR OTHER INTERRUPTIONS
+   20. THE COST OF PROVIDING A SUBSTITUTE FOR CODE WITH ME
+   21. ANY INVESTMENTS, EXPENSES, OR COMMITMENTS THAT YOU OR A GUEST MAKE RELATING TO THESE TERMS OR YOUR ACCESS TO OR USE OF CODE WITH ME
+   22. ANY UNAUTHORIZED ACCESS TO, MODIFICATION, DELETION, DESTRUCTION, DAMAGE, OR LOSS OF ANY OF YOUR CONNECTIONS OR DATA.
+
+
+(MAXIMUM LIABILITY) OUR MAXIMUM, OVERALL (‘AGGREGATE’) LIABILITY RELATING TO THESE TERMS IS LIMITED TO THE GREATER OF $100 OR THE AMOUNT THAT YOU ACTUALLY PAID TO US FOR CODE WITH ME IN THE  TWELVE (12) MONTHS BEFORE YOU CLAIMED THAT WE WERE LIABLE. THE MAXIMUM LIABILITY APPLIES EVEN IF WE WERE ADVISED OR IT IS OTHERWISE DEEMED WE SHOULD HAVE BEEN AWARE THAT LIABILITY COULD EXCEED THE MAXIMUM LIABILITY AMOUNT OR EVEN IF THE LEGAL BASIS (I.E. TORT, BREACH OF CONTRACT, EQUITY, OR A SIMILAR BASIS) FOR A REMEDY IS INVALID.
+* 10. Term and Termination
+   23. Term
+* These Terms start (‘take effect’) when you click the “I Accept” button or provide similar consent to (‘be bound by’) these Terms. These Terms continue until they are ended (‘terminated’) either by you or us (“End Date”) as described in these Terms.
+   1. Ending this agreement due to a breach of these Terms
+Either you or we can terminate these Terms if the other party breaches them. The non-breaching party must let the other party know (‘give notice’) that it has breached these Terms and, if these breaches are not resolved within 30 days, these terms will end.
+If you end these Terms according to this Section 10(b), we are not required to refund you any prepaid fees for the period that would be your Subscription Period, after the date these Terms were ended.
+If we end these Terms according to this Section 10(b), we are not required to refund you any prepaid fees for the period that would be your Subscription Period, after the date these Terms were ended, but you must pay us (‘remain liable for’) any unpaid fees that you owe for the period that would be your Subscription Period, after the date these Terms were ended.
+   2. Termination by us
+In addition, we can immediately end these Terms, if we decide that:
+      11. you have materially breached or abused any part of these Terms and have not remedied this in 3 consecutive days after we let you know; or
+
+
+      12. we will no longer provide Code With Me, due to any business, economic, legal, or regulatory reason.
+
+
+We can also terminate these Terms immediately if we choose for any reason or no reason (‘for convenience’), and in such a case we will return any prepaid fees that are unused (‘on a pro rata basis’).
+
+
+If we end these Terms according to Section 10(c)(i) above, you must pay us any unpaid fees that you owe for the period that would be your Subscription Period, after the date these Terms were ended.
+11. Marketing
+If you are a legal entity, you give us permission to publicly identify you as a customer of JetBrains, refer to you by name, trade name, and trademarks, and describe your business. You give us permission to do this, but only for marketing purposes. We can use your name, trade name, and trademarks in marketing materials, on the JetBrains Website, and in other public documents. We are not required to pay a fee for this permission (it is ‘royalty-free’), and it applies worldwide.
+12. Notices
+   3. If you are required under these Terms to notify us (‘give notice’) of anything, you may do so:
+      1. by sending an email to legal@jetbrains.com. Any time period starts on the next business day after you send the email;
+      2. by courier delivery of a letter marked for the attention of the “Legal Department” at the physical address on the JetBrains Website. Any time period starts 5 consecutive days from when you send the letter; or
+      3. by registered post, marked for the attention of the “Legal Department” at the address on the JetBrains Website. Any time period starts 10 consecutive days from when you send the letter.
+
+
+   4. If we are required under these Terms to notify you (‘give notice’) of anything, we may do so:
+      1. by posting the information on the JetBrains Website. Any time period starts on the day specified on the JetBrains Website; or
+      2. by sending an email to the email address that your Subscription Confirmation was sent to. Any time period starts on the next business day after we send the email.
+
+
+It is your responsibility to check the JetBrains Website for any changes and make sure that your email address is up to date in our records.
+
+
+13. Export Control Laws
+You must comply with all applicable laws and regulations relating to export restrictive measures, economic sanctions, export controls, import regulations, and trade embargoes, including those maintained by the European Union and the United States of America (“Export Control Laws”). You confirm (‘represent and warrant’) that you are not an entity, nor are you owned, controlled, or otherwise related to a person or entity, or acting on behalf of any person or entity, that is targeted by Export Control Laws.
+This means that you will ensure that the Product, related services, and/or technical data is not (i) accessed, downloaded, transferred, provided, exported, or re-exported directly or indirectly in violation of Export Control Laws; or (ii) used for any purpose prohibited by Export Control Laws.
+You are also expected to report any concerns of non-compliance with these requirements and/or address any questions to ethics@jetbrains.com, compliance@jetbrains.com, or legal@jetbrains.com. In addition, you are required to cooperate with us in our efforts to verify our and/or your compliance with Export Control Laws.
+14. General Provisions
+   5. This agreement and its Parties
+The JetBrains Privacy Policy, available at https://www.jetbrains.com/legal/docs/privacy/privacy.html, the JetBrains Cloud-Based Tools Acceptable Use Policy, available at https://www.jetbrains.com/legal/docs/terms/acceptable-use, the JetBrains Team Tools User Agreement, available at https://www.jetbrains.com/legal/docs/agreements/teamware.html, and the JetBrains Terms and Conditions of Purchase, available at https://www.jetbrains.com/legal/docs/store/terms/ (each also available at https://www.jetbrains.com/legal) are part of (‘incorporated into’) these Terms. Each of your Guests is also subject to the JetBrains Team Tools User Agreement, available at https://www.jetbrains.com/legal/docs/agreements/teamware.html. Together, these documents form the entire agreement and replace any previous agreement between you and us in relation to its subject matter. Except as expressly mentioned, these Terms do not give rights to anyone else (‘no third-party beneficiaries’).
+
+
+   6. Governing Law and Disputes
+
+
+These Terms are governed by the laws of the Czech Republic, without reference to conflict of laws principles, and specifically excluding the United Nations Convention on Contracts for the International Sale of Goods. The parties to the agreement constituted by these Terms undertake to use best commercial efforts to amicably settle any disputes arising hereunder (“Dispute”).
+
+
+Should the parties to the agreement constituted by these Terms fail to settle a Dispute amicably, the Dispute will be excluded from the jurisdiction of general courts and all such Disputes will be finally decided by the Arbitration Court attached to the Czech Chamber of Commerce and the Agricultural Chamber of the Czech Republic by three arbitrators in accordance with the Rules of that Arbitration Court, and the language of the proceedings will be English; provided that if you are a consumer, you and JetBrains agree that any Dispute-related litigation may only be brought in, and shall be subject to the jurisdiction of, any competent court of the Czech Republic, unless provided otherwise by applicable consumer law. Consumer Disputes can also be settled out of court through the Czech Trade Inspection Authority (www.coi.cz) or the European Commission online platform for dispute resolution (http://ec.europa.eu/consumers/odr).
+
+
+   7. Force Majeure
+We will not be responsible (‘liable’) for any delay or failure to perform any obligation under these Terms where the delay or failure results from any cause beyond our reasonable control. This includes any ‘acts of God’, labor disputes or other industrial disturbances, systemic electrical, telecommunications or other utility failures, public health emergencies, earthquakes, storms or other elements of nature, blockages, embargoes, riots, acts or orders of government, acts of terrorism, or war.
+
+
+   8. Severability
+If a court finds that any part of, or word in, these Terms is not enforceable, that part or word will not affect the enforceability of the rest of these Terms.
+
+
+   9. Interpretation
+Any heading, title, or paragraph summary is only for your convenience and does not affect interpretation of these Terms. Any reference to an inclusive word, such as ‘including’, is not comprehensive and refers to other items in that category. References to time or periods of time are determined in reference to Central European Time.
+
+
+   10. Waiver
+Any waiver of our rights under these Terms must be in writing and signed by us.
+
+
+   11. Changes to Terms and Policies
+We can update or modify these Terms at any time by posting a revised version to the JetBrains Website. The modified terms will start (‘be effective’) on the date they are posted on the JetBrains Website. By continuing to use Code With Me after the effective date, you agree to be bound by the modified Terms. It is your responsibility to check the JetBrains Website regularly for any changes to these Terms.
+
+
+   12. Relationship
+Your relationship with JetBrains is that of a customer and vendor (‘independent parties’). These Terms do not create a partnership, franchise, joint venture, agency, fiduciary, employment, or any other type of relationship.
+15. Important notices
+
+
+Contract Review
+By agreeing to these Terms, you are confirming to us that:
+* you have had sufficient opportunity to read, review, and consider these Terms;
+* you understand the content of each paragraph of these Terms; and
+* you have had sufficient opportunity to seek independent professional legal advice.
+
+
+This means that, to the extent permitted by applicable law, any statutory provisions relating to so-called “form” or “adhesion” contracts do not apply to these Terms.
+
+
+Children and Minors
+If you are younger than 13 years old, you cannot agree to these Terms or use Code With Me. By agreeing to these Terms you are confirming that:
+* either you have legal capacity to enter into these Terms, or you have valid consent from a parent or legal guardian to do so; and
+* you understand the JetBrains Privacy Policy, available at https://www.jetbrains.com/legal/docs/privacy/privacy.html.
+
+
+IF YOU DO NOT UNDERSTAND THIS SECTION, DO NOT UNDERSTAND THE JETBRAINS PRIVACY POLICY, OR DO NOT KNOW WHETHER YOU HAVE THE LEGAL CAPACITY TO ACCEPT THESE TERMS, PLEASE ASK YOUR PARENT OR LEGAL GUARDIAN FOR HELP.
+If you have any questions about these Terms, please contact us at legal@jetbrains.com.
