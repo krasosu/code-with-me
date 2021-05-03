@@ -1,0 +1,25 @@
+# Based on https://www.jetbrains.com/help/cwm/code-with-me-administration-guide.html
+
+version: "3.8"
+services:
+
+  lobby:
+    image: jetbrains/code-with-me-lobby:1595
+    environment:
+      BASE_URL: https://lobby.cwm.internal
+      LICENSE_BUNDLES: /home/lobby-server/config/license.key
+      JSON_CONSOLE_LOGGING: "false"
+      SERVER_PORT: "2093"
+      #      SERVER_LISTEN_ON: "0.0.0.0"
+      ROOT_PREFIX: "/"
+      DIAGNOSTICS_PORT:
+      CONFIG_JSON: /home/lobby-server/config/config.json
+      #RELAYS_ECDSA_JWT_KEY_FILE: /home/lobby-server/config/lobby_private.pem
+      #JITSI_URL: https://meet.jit.si
+      #      JITSI_RSA_JWT_KEY_FILE: /home/lobby-server/config/jitsi_jwt.key
+      #REDIS_HOST: redis
+      REDIS_PORT: 6379
+      # ENABLED_FEATURES: ws_relay,p2p_quic,direct_tcp,jitsi_telephony,project_names,user_names
+    volumes:
+      - ./lobby/:/home/lobby-server/config/:ro
+
