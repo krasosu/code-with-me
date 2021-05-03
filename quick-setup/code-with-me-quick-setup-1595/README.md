@@ -1,9 +1,5 @@
 # Single-click executable for the Code With Me (CWM) servers
 
-## Current limitations
-
-* Servers can be launched only on `linux-x86_64` platform
-
 ## Description
 
 This setup is intended for the quick evaluation purposes and is highly insecure for the production use.
@@ -14,13 +10,6 @@ This setup is intended for the quick evaluation purposes and is highly insecure 
 
 ## Launch
 
-### Options
-
-Host address is specified by the `-h` option.
-
-Path to license file is specified by the`-k` option. To obtain one visit https://www.jetbrains.com/code-with-me/on-prem/
-
-Lobby and relay server ports can be specified using the `-l` and `-r` options. They default to `2093` and `3974` respectively.
 
 ### Example 1
 
@@ -35,4 +24,3 @@ Lobby and relay server ports can be specified using the `-l` and `-r` options. T
 
 1. Launches a lobby server, accessible via the address `http://myserver.internal:4950`.
 2. Launches a relay server on the port `8092`, and the lobby will share a link of `ws://myserver.internal:8092` as the relay address.
-
